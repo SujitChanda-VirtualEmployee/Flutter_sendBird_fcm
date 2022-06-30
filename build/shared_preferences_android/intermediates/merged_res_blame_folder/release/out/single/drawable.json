@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/Users/sujichanda/Documents/flutter_projects/Flutter_sendBird_fcm/build/shared_preferences_android/intermediates/res/merged/release/drawable/notification_bg_low.xml",
+        "source": "/Users/sujichanda/.gradle/caches/transforms-3/37496622dd8e74fe84a66f93cdde22b1/transformed/core-1.6.0/res/drawable/notification_bg_low.xml"
+    },
+    {
+        "merged": "/Users/sujichanda/Documents/flutter_projects/Flutter_sendBird_fcm/build/shared_preferences_android/intermediates/res/merged/release/drawable/notification_bg.xml",
+        "source": "/Users/sujichanda/.gradle/caches/transforms-3/37496622dd8e74fe84a66f93cdde22b1/transformed/core-1.6.0/res/drawable/notification_bg.xml"
+    },
+    {
+        "merged": "/Users/sujichanda/Documents/flutter_projects/Flutter_sendBird_fcm/build/shared_preferences_android/intermediates/res/merged/release/drawable/notification_tile_bg.xml",
+        "source": "/Users/sujichanda/.gradle/caches/transforms-3/37496622dd8e74fe84a66f93cdde22b1/transformed/core-1.6.0/res/drawable/notification_tile_bg.xml"
+    },
+    {
+        "merged": "/Users/sujichanda/Documents/flutter_projects/Flutter_sendBird_fcm/build/shared_preferences_android/intermediates/res/merged/release/drawable/notification_icon_background.xml",
+        "source": "/Users/sujichanda/.gradle/caches/transforms-3/37496622dd8e74fe84a66f93cdde22b1/transformed/core-1.6.0/res/drawable/notification_icon_background.xml"
+    }
+]

@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/sujichanda/Documents/flutter_projects/Flutter_sendBird_fcm/build/image_cropper/intermediates/res/merged/release/drawable-ldpi-v4/ucrop_ic_done.png",
+        "source": "/Users/sujichanda/.gradle/caches/transforms-3/937e523fc8370fee1e4e6529fc95745a/transformed/jetified-ucrop-2.2.8/res/drawable-ldpi-v4/ucrop_ic_done.png"
+    },
+    {
+        "merged": "/Users/sujichanda/Documents/flutter_projects/Flutter_sendBird_fcm/build/image_cropper/intermediates/res/merged/release/drawable-ldpi-v4/ucrop_ic_angle.png",
+        "source": "/Users/sujichanda/.gradle/caches/transforms-3/937e523fc8370fee1e4e6529fc95745a/transformed/jetified-ucrop-2.2.8/res/drawable-ldpi-v4/ucrop_ic_angle.png"
+    }
+]

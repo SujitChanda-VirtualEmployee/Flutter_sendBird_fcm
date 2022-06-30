@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/Users/sujichanda/Documents/flutter_projects/Flutter_sendBird_fcm/build/sms_autofill/intermediates/res/merged/release/color/common_google_signin_btn_tint.xml",
+        "source": "/Users/sujichanda/.gradle/caches/transforms-3/e4f5ce87db99c69603472b2c89db00fb/transformed/jetified-play-services-base-17.5.0/res/color/common_google_signin_btn_tint.xml"
+    },
+    {
+        "merged": "/Users/sujichanda/Documents/flutter_projects/Flutter_sendBird_fcm/build/sms_autofill/intermediates/res/merged/release/color/common_google_signin_btn_text_dark.xml",
+        "source": "/Users/sujichanda/.gradle/caches/transforms-3/e4f5ce87db99c69603472b2c89db00fb/transformed/jetified-play-services-base-17.5.0/res/color/common_google_signin_btn_text_dark.xml"
+    },
+    {
+        "merged": "/Users/sujichanda/Documents/flutter_projects/Flutter_sendBird_fcm/build/sms_autofill/intermediates/res/merged/release/color/common_google_signin_btn_text_light.xml",
+        "source": "/Users/sujichanda/.gradle/caches/transforms-3/e4f5ce87db99c69603472b2c89db00fb/transformed/jetified-play-services-base-17.5.0/res/color/common_google_signin_btn_text_light.xml"
+    }
+]

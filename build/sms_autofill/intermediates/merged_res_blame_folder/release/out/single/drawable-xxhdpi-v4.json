@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "/Users/sujichanda/Documents/flutter_projects/Flutter_sendBird_fcm/build/sms_autofill/intermediates/res/merged/release/drawable-xxhdpi-v4/common_google_signin_btn_text_light_normal_background.9.png",
+        "source": "/Users/sujichanda/.gradle/caches/transforms-3/e4f5ce87db99c69603472b2c89db00fb/transformed/jetified-play-services-base-17.5.0/res/drawable-xxhdpi-v4/common_google_signin_btn_text_light_normal_background.9.png"
+    },
+    {
+        "merged": "/Users/sujichanda/Documents/flutter_projects/Flutter_sendBird_fcm/build/sms_autofill/intermediates/res/merged/release/drawable-xxhdpi-v4/common_google_signin_btn_icon_light_normal_background.9.png",
+        "source": "/Users/sujichanda/.gradle/caches/transforms-3/e4f5ce87db99c69603472b2c89db00fb/transformed/jetified-play-services-base-17.5.0/res/drawable-xxhdpi-v4/common_google_signin_btn_icon_light_normal_background.9.png"
+    },
+    {
+        "merged": "/Users/sujichanda/Documents/flutter_projects/Flutter_sendBird_fcm/build/sms_autofill/intermediates/res/merged/release/drawable-xxhdpi-v4/common_google_signin_btn_icon_dark_normal_background.9.png",
+        "source": "/Users/sujichanda/.gradle/caches/transforms-3/e4f5ce87db99c69603472b2c89db00fb/transformed/jetified-play-services-base-17.5.0/res/drawable-xxhdpi-v4/common_google_signin_btn_icon_dark_normal_background.9.png"
+    },
+    {
+        "merged": "/Users/sujichanda/Documents/flutter_projects/Flutter_sendBird_fcm/build/sms_autofill/intermediates/res/merged/release/drawable-xxhdpi-v4/googleg_standard_color_18.png",
+        "source": "/Users/sujichanda/.gradle/caches/transforms-3/e4f5ce87db99c69603472b2c89db00fb/transformed/jetified-play-services-base-17.5.0/res/drawable-xxhdpi-v4/googleg_standard_color_18.png"
+    },
+    {
+        "merged": "/Users/sujichanda/Documents/flutter_projects/Flutter_sendBird_fcm/build/sms_autofill/intermediates/res/merged/release/drawable-xxhdpi-v4/common_google_signin_btn_text_dark_normal_background.9.png",
+        "source": "/Users/sujichanda/.gradle/caches/transforms-3/e4f5ce87db99c69603472b2c89db00fb/transformed/jetified-play-services-base-17.5.0/res/drawable-xxhdpi-v4/common_google_signin_btn_text_dark_normal_background.9.png"
+    },
+    {
+        "merged": "/Users/sujichanda/Documents/flutter_projects/Flutter_sendBird_fcm/build/sms_autofill/intermediates/res/merged/release/drawable-xxhdpi-v4/googleg_disabled_color_18.png",
+        "source": "/Users/sujichanda/.gradle/caches/transforms-3/e4f5ce87db99c69603472b2c89db00fb/transformed/jetified-play-services-base-17.5.0/res/drawable-xxhdpi-v4/googleg_disabled_color_18.png"
+    }
+]

@@ -1,0 +1,4 @@
+#Thu Jun 30 21:54:19 IST 2022
+base.0=/Users/sujichanda/Documents/flutter_projects/Flutter_sendBird_fcm/build/app/intermediates/dex/release/minifyReleaseWithR8/classes.dex
+renamed.0=classes.dex
+path.0=classes.dex

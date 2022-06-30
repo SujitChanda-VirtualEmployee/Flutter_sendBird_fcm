@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/Users/sujichanda/Documents/flutter_projects/Flutter_sendBird_fcm/build/image_picker_android/intermediates/res/merged/release/layout-v21/notification_template_custom_big.xml",
+        "source": "/Users/sujichanda/.gradle/caches/transforms-3/37496622dd8e74fe84a66f93cdde22b1/transformed/core-1.6.0/res/layout-v21/notification_template_custom_big.xml"
+    },
+    {
+        "merged": "/Users/sujichanda/Documents/flutter_projects/Flutter_sendBird_fcm/build/image_picker_android/intermediates/res/merged/release/layout-v21/notification_template_icon_group.xml",
+        "source": "/Users/sujichanda/.gradle/caches/transforms-3/37496622dd8e74fe84a66f93cdde22b1/transformed/core-1.6.0/res/layout-v21/notification_template_icon_group.xml"
+    },
+    {
+        "merged": "/Users/sujichanda/Documents/flutter_projects/Flutter_sendBird_fcm/build/image_picker_android/intermediates/res/merged/release/layout-v21/notification_action_tombstone.xml",
+        "source": "/Users/sujichanda/.gradle/caches/transforms-3/37496622dd8e74fe84a66f93cdde22b1/transformed/core-1.6.0/res/layout-v21/notification_action_tombstone.xml"
+    },
+    {
+        "merged": "/Users/sujichanda/Documents/flutter_projects/Flutter_sendBird_fcm/build/image_picker_android/intermediates/res/merged/release/layout-v21/notification_action.xml",
+        "source": "/Users/sujichanda/.gradle/caches/transforms-3/37496622dd8e74fe84a66f93cdde22b1/transformed/core-1.6.0/res/layout-v21/notification_action.xml"
+    }
+]

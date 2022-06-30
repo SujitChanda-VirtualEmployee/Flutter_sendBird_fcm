@@ -1,0 +1,90 @@
+[
+    {
+        "merged": "/Users/sujichanda/Documents/flutter_projects/Flutter_sendBird_fcm/build/image_cropper/intermediates/res/merged/release/color/abc_background_cache_hint_selector_material_dark.xml",
+        "source": "/Users/sujichanda/.gradle/caches/transforms-3/805a9538e9349358a32f9df046b8dc45/transformed/appcompat-1.3.0/res/color/abc_background_cache_hint_selector_material_dark.xml"
+    },
+    {
+        "merged": "/Users/sujichanda/Documents/flutter_projects/Flutter_sendBird_fcm/build/image_cropper/intermediates/res/merged/release/color/abc_primary_text_disable_only_material_light.xml",
+        "source": "/Users/sujichanda/.gradle/caches/transforms-3/805a9538e9349358a32f9df046b8dc45/transformed/appcompat-1.3.0/res/color/abc_primary_text_disable_only_material_light.xml"
+    },
+    {
+        "merged": "/Users/sujichanda/Documents/flutter_projects/Flutter_sendBird_fcm/build/image_cropper/intermediates/res/merged/release/color/abc_hint_foreground_material_dark.xml",
+        "source": "/Users/sujichanda/.gradle/caches/transforms-3/805a9538e9349358a32f9df046b8dc45/transformed/appcompat-1.3.0/res/color/abc_hint_foreground_material_dark.xml"
+    },
+    {
+        "merged": "/Users/sujichanda/Documents/flutter_projects/Flutter_sendBird_fcm/build/image_cropper/intermediates/res/merged/release/color/abc_hint_foreground_material_light.xml",
+        "source": "/Users/sujichanda/.gradle/caches/transforms-3/805a9538e9349358a32f9df046b8dc45/transformed/appcompat-1.3.0/res/color/abc_hint_foreground_material_light.xml"
+    },
+    {
+        "merged": "/Users/sujichanda/Documents/flutter_projects/Flutter_sendBird_fcm/build/image_cropper/intermediates/res/merged/release/color/switch_thumb_material_dark.xml",
+        "source": "/Users/sujichanda/.gradle/caches/transforms-3/805a9538e9349358a32f9df046b8dc45/transformed/appcompat-1.3.0/res/color/switch_thumb_material_dark.xml"
+    },
+    {
+        "merged": "/Users/sujichanda/Documents/flutter_projects/Flutter_sendBird_fcm/build/image_cropper/intermediates/res/merged/release/color/abc_btn_colored_text_material.xml",
+        "source": "/Users/sujichanda/.gradle/caches/transforms-3/805a9538e9349358a32f9df046b8dc45/transformed/appcompat-1.3.0/res/color/abc_btn_colored_text_material.xml"
+    },
+    {
+        "merged": "/Users/sujichanda/Documents/flutter_projects/Flutter_sendBird_fcm/build/image_cropper/intermediates/res/merged/release/color/abc_background_cache_hint_selector_material_light.xml",
+        "source": "/Users/sujichanda/.gradle/caches/transforms-3/805a9538e9349358a32f9df046b8dc45/transformed/appcompat-1.3.0/res/color/abc_background_cache_hint_selector_material_light.xml"
+    },
+    {
+        "merged": "/Users/sujichanda/Documents/flutter_projects/Flutter_sendBird_fcm/build/image_cropper/intermediates/res/merged/release/color/abc_secondary_text_material_light.xml",
+        "source": "/Users/sujichanda/.gradle/caches/transforms-3/805a9538e9349358a32f9df046b8dc45/transformed/appcompat-1.3.0/res/color/abc_secondary_text_material_light.xml"
+    },
+    {
+        "merged": "/Users/sujichanda/Documents/flutter_projects/Flutter_sendBird_fcm/build/image_cropper/intermediates/res/merged/release/color/abc_tint_default.xml",
+        "source": "/Users/sujichanda/.gradle/caches/transforms-3/805a9538e9349358a32f9df046b8dc45/transformed/appcompat-1.3.0/res/color/abc_tint_default.xml"
+    },
+    {
+        "merged": "/Users/sujichanda/Documents/flutter_projects/Flutter_sendBird_fcm/build/image_cropper/intermediates/res/merged/release/color/abc_primary_text_disable_only_material_dark.xml",
+        "source": "/Users/sujichanda/.gradle/caches/transforms-3/805a9538e9349358a32f9df046b8dc45/transformed/appcompat-1.3.0/res/color/abc_primary_text_disable_only_material_dark.xml"
+    },
+    {
+        "merged": "/Users/sujichanda/Documents/flutter_projects/Flutter_sendBird_fcm/build/image_cropper/intermediates/res/merged/release/color/abc_tint_edittext.xml",
+        "source": "/Users/sujichanda/.gradle/caches/transforms-3/805a9538e9349358a32f9df046b8dc45/transformed/appcompat-1.3.0/res/color/abc_tint_edittext.xml"
+    },
+    {
+        "merged": "/Users/sujichanda/Documents/flutter_projects/Flutter_sendBird_fcm/build/image_cropper/intermediates/res/merged/release/color/abc_tint_btn_checkable.xml",
+        "source": "/Users/sujichanda/.gradle/caches/transforms-3/805a9538e9349358a32f9df046b8dc45/transformed/appcompat-1.3.0/res/color/abc_tint_btn_checkable.xml"
+    },
+    {
+        "merged": "/Users/sujichanda/Documents/flutter_projects/Flutter_sendBird_fcm/build/image_cropper/intermediates/res/merged/release/color/abc_btn_colored_borderless_text_material.xml",
+        "source": "/Users/sujichanda/.gradle/caches/transforms-3/805a9538e9349358a32f9df046b8dc45/transformed/appcompat-1.3.0/res/color/abc_btn_colored_borderless_text_material.xml"
+    },
+    {
+        "merged": "/Users/sujichanda/Documents/flutter_projects/Flutter_sendBird_fcm/build/image_cropper/intermediates/res/merged/release/color/ucrop_scale_text_view_selector.xml",
+        "source": "/Users/sujichanda/.gradle/caches/transforms-3/937e523fc8370fee1e4e6529fc95745a/transformed/jetified-ucrop-2.2.8/res/color/ucrop_scale_text_view_selector.xml"
+    },
+    {
+        "merged": "/Users/sujichanda/Documents/flutter_projects/Flutter_sendBird_fcm/build/image_cropper/intermediates/res/merged/release/color/abc_tint_switch_track.xml",
+        "source": "/Users/sujichanda/.gradle/caches/transforms-3/805a9538e9349358a32f9df046b8dc45/transformed/appcompat-1.3.0/res/color/abc_tint_switch_track.xml"
+    },
+    {
+        "merged": "/Users/sujichanda/Documents/flutter_projects/Flutter_sendBird_fcm/build/image_cropper/intermediates/res/merged/release/color/abc_search_url_text.xml",
+        "source": "/Users/sujichanda/.gradle/caches/transforms-3/805a9538e9349358a32f9df046b8dc45/transformed/appcompat-1.3.0/res/color/abc_search_url_text.xml"
+    },
+    {
+        "merged": "/Users/sujichanda/Documents/flutter_projects/Flutter_sendBird_fcm/build/image_cropper/intermediates/res/merged/release/color/abc_primary_text_material_dark.xml",
+        "source": "/Users/sujichanda/.gradle/caches/transforms-3/805a9538e9349358a32f9df046b8dc45/transformed/appcompat-1.3.0/res/color/abc_primary_text_material_dark.xml"
+    },
+    {
+        "merged": "/Users/sujichanda/Documents/flutter_projects/Flutter_sendBird_fcm/build/image_cropper/intermediates/res/merged/release/color/abc_tint_spinner.xml",
+        "source": "/Users/sujichanda/.gradle/caches/transforms-3/805a9538e9349358a32f9df046b8dc45/transformed/appcompat-1.3.0/res/color/abc_tint_spinner.xml"
+    },
+    {
+        "merged": "/Users/sujichanda/Documents/flutter_projects/Flutter_sendBird_fcm/build/image_cropper/intermediates/res/merged/release/color/abc_tint_seek_thumb.xml",
+        "source": "/Users/sujichanda/.gradle/caches/transforms-3/805a9538e9349358a32f9df046b8dc45/transformed/appcompat-1.3.0/res/color/abc_tint_seek_thumb.xml"
+    },
+    {
+        "merged": "/Users/sujichanda/Documents/flutter_projects/Flutter_sendBird_fcm/build/image_cropper/intermediates/res/merged/release/color/switch_thumb_material_light.xml",
+        "source": "/Users/sujichanda/.gradle/caches/transforms-3/805a9538e9349358a32f9df046b8dc45/transformed/appcompat-1.3.0/res/color/switch_thumb_material_light.xml"
+    },
+    {
+        "merged": "/Users/sujichanda/Documents/flutter_projects/Flutter_sendBird_fcm/build/image_cropper/intermediates/res/merged/release/color/abc_primary_text_material_light.xml",
+        "source": "/Users/sujichanda/.gradle/caches/transforms-3/805a9538e9349358a32f9df046b8dc45/transformed/appcompat-1.3.0/res/color/abc_primary_text_material_light.xml"
+    },
+    {
+        "merged": "/Users/sujichanda/Documents/flutter_projects/Flutter_sendBird_fcm/build/image_cropper/intermediates/res/merged/release/color/abc_secondary_text_material_dark.xml",
+        "source": "/Users/sujichanda/.gradle/caches/transforms-3/805a9538e9349358a32f9df046b8dc45/transformed/appcompat-1.3.0/res/color/abc_secondary_text_material_dark.xml"
+    }
+]

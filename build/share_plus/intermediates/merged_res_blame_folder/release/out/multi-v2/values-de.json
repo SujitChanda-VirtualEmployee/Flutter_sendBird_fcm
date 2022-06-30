@@ -1,0 +1,34 @@
+{
+    "logs": [
+        {
+            "outputFile": "/Users/sujichanda/Documents/flutter_projects/Flutter_sendBird_fcm/build/share_plus/intermediates/res/merged/release/values-de/values-de.xml",
+            "map": [
+                {
+                    "source": "/Users/sujichanda/.gradle/caches/transforms-3/b35628f98247ad835a3a7eaf10721cae/transformed/core-1.7.0/res/values-de/values-de.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/Users/sujichanda/Documents/flutter_projects/Flutter_sendBird_fcm/build/share_plus/intermediates/incremental/mergeReleaseResources/merged.dir/values-de/values-de.xml",
+            "map": [
+                {
+                    "source": "/Users/sujichanda/.gradle/caches/transforms-3/b35628f98247ad835a3a7eaf10721cae/transformed/core-1.7.0/res/values-de/values-de.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        }
+    ]
+}

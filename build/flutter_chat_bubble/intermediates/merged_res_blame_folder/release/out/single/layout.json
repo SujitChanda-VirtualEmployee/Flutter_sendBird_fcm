@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "/Users/sujichanda/Documents/flutter_projects/Flutter_sendBird_fcm/build/flutter_chat_bubble/intermediates/res/merged/release/layout/notification_template_part_time.xml",
+        "source": "/Users/sujichanda/.gradle/caches/transforms-3/37496622dd8e74fe84a66f93cdde22b1/transformed/core-1.6.0/res/layout/notification_template_part_time.xml"
+    },
+    {
+        "merged": "/Users/sujichanda/Documents/flutter_projects/Flutter_sendBird_fcm/build/flutter_chat_bubble/intermediates/res/merged/release/layout/notification_action_tombstone.xml",
+        "source": "/Users/sujichanda/.gradle/caches/transforms-3/37496622dd8e74fe84a66f93cdde22b1/transformed/core-1.6.0/res/layout/notification_action_tombstone.xml"
+    },
+    {
+        "merged": "/Users/sujichanda/Documents/flutter_projects/Flutter_sendBird_fcm/build/flutter_chat_bubble/intermediates/res/merged/release/layout/notification_action.xml",
+        "source": "/Users/sujichanda/.gradle/caches/transforms-3/37496622dd8e74fe84a66f93cdde22b1/transformed/core-1.6.0/res/layout/notification_action.xml"
+    },
+    {
+        "merged": "/Users/sujichanda/Documents/flutter_projects/Flutter_sendBird_fcm/build/flutter_chat_bubble/intermediates/res/merged/release/layout/notification_template_part_chronometer.xml",
+        "source": "/Users/sujichanda/.gradle/caches/transforms-3/37496622dd8e74fe84a66f93cdde22b1/transformed/core-1.6.0/res/layout/notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "/Users/sujichanda/Documents/flutter_projects/Flutter_sendBird_fcm/build/flutter_chat_bubble/intermediates/res/merged/release/layout/custom_dialog.xml",
+        "source": "/Users/sujichanda/.gradle/caches/transforms-3/37496622dd8e74fe84a66f93cdde22b1/transformed/core-1.6.0/res/layout/custom_dialog.xml"
+    },
+    {
+        "merged": "/Users/sujichanda/Documents/flutter_projects/Flutter_sendBird_fcm/build/flutter_chat_bubble/intermediates/res/merged/release/layout/notification_template_icon_group.xml",
+        "source": "/Users/sujichanda/.gradle/caches/transforms-3/37496622dd8e74fe84a66f93cdde22b1/transformed/core-1.6.0/res/layout/notification_template_icon_group.xml"
+    }
+]

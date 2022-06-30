@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "955612177362",
+    "project_id": "flutter-sendbird-fcm",
+    "storage_bucket": "flutter-sendbird-fcm.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:955612177362:android:7af60512d38b5b596e9e0b",
+        "android_client_info": {
+          "package_name": "com.sujitchanda.flutter_sendbird_fcm"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "955612177362-qlqcna9dqlu96c0n7ft2guue9gva0jne.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.sujitchanda.flutter_sendbird_fcm",
+            "certificate_hash": "2110ce6d9609baa8d2ccc8a4c80f0b0ced405eed"
+          }
+        },
+        {
+          "client_id": "955612177362-1atasqaftt6mtqjmvjo9c991jqa9felr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDYT2dqffPqhSX4RD8cPzBOfF6u59WwFqg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "955612177362-1atasqaftt6mtqjmvjo9c991jqa9felr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

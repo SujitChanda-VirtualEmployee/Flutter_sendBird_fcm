@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">955612177362-1atasqaftt6mtqjmvjo9c991jqa9felr.apps.googleusercontent.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">955612177362</string>
+    <string name="google_api_key" translatable="false">AIzaSyDYT2dqffPqhSX4RD8cPzBOfF6u59WwFqg</string>
+    <string name="google_app_id" translatable="false">1:955612177362:android:7af60512d38b5b596e9e0b</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyDYT2dqffPqhSX4RD8cPzBOfF6u59WwFqg</string>
+    <string name="google_storage_bucket" translatable="false">flutter-sendbird-fcm.appspot.com</string>
+    <string name="project_id" translatable="false">flutter-sendbird-fcm</string>
+</resources>

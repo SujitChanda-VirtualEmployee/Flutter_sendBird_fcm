@@ -1,0 +1,82 @@
+{
+    "logs": [
+        {
+            "outputFile": "/Users/sujichanda/Documents/flutter_projects/Flutter_sendBird_fcm/build/firebase_core/intermediates/res/merged/release/values-zu/values-zu.xml",
+            "map": [
+                {
+                    "source": "/Users/sujichanda/.gradle/caches/transforms-3/37496622dd8e74fe84a66f93cdde22b1/transformed/core-1.6.0/res/values-zu/values-zu.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    },
+                    "to": {
+                        "startLines": "3",
+                        "startColumns": "4",
+                        "startOffsets": "187",
+                        "endColumns": "100",
+                        "endOffsets": "283"
+                    }
+                },
+                {
+                    "source": "/Users/sujichanda/.gradle/caches/transforms-3/22fa9d2a5f4a9ea29e5a72318536287c/transformed/jetified-play-services-basement-18.0.0/res/values-zu/values.xml",
+                    "from": {
+                        "startLines": "4",
+                        "startColumns": "0",
+                        "startOffsets": "195",
+                        "endColumns": "127",
+                        "endOffsets": "322"
+                    },
+                    "to": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "131",
+                        "endOffsets": "182"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/Users/sujichanda/Documents/flutter_projects/Flutter_sendBird_fcm/build/firebase_core/intermediates/incremental/mergeReleaseResources/merged.dir/values-zu/values-zu.xml",
+            "map": [
+                {
+                    "source": "/Users/sujichanda/.gradle/caches/transforms-3/37496622dd8e74fe84a66f93cdde22b1/transformed/core-1.6.0/res/values-zu/values-zu.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    },
+                    "to": {
+                        "startLines": "3",
+                        "startColumns": "4",
+                        "startOffsets": "187",
+                        "endColumns": "100",
+                        "endOffsets": "283"
+                    }
+                },
+                {
+                    "source": "/Users/sujichanda/.gradle/caches/transforms-3/22fa9d2a5f4a9ea29e5a72318536287c/transformed/jetified-play-services-basement-18.0.0/res/values-zu/values.xml",
+                    "from": {
+                        "startLines": "4",
+                        "startColumns": "0",
+                        "startOffsets": "195",
+                        "endColumns": "127",
+                        "endOffsets": "322"
+                    },
+                    "to": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "131",
+                        "endOffsets": "182"
+                    }
+                }
+            ]
+        }
+    ]
+}
